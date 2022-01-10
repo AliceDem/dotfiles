@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alice.demaret@gmail.com
+	name = Alice Demaret
